@@ -122,6 +122,8 @@ When your commit is successfully pushed to GitHub, you can create a pull request
 
 ![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_4da38401d30beacf8a0f1564ff0b422c.png)
 
+You should add `sandrabosk` as a Reviewer or in the comment field of the Pull Request (with `@sandrabosk`). This way we will be notified that your work is ready to be reviewed.
+
 <br><br>
 
 **Thank you for your contributions!**
