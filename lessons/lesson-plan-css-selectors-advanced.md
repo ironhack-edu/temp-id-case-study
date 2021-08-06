@@ -1,6 +1,8 @@
 
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
+[// The suggestion for this lesson is based on 3 codes for students to work along the lesson: one for the first part, 1 for the second part and 1 for the final assessment. I took the embedded examples from CodePen because the idea would be that all the examples would work with part of the same code, and as I would have the SME in the area to support me in this task, I placed placeholders where the code would be, but the idea would be to continue with the same system of using parts of the code in the CodePen tool. //]: #
+
 # CSS | Advanced Selectors
 
 ## Learning Goals
