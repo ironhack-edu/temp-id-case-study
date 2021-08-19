@@ -4,14 +4,14 @@
 
 ## Description
 
-In this lesson you will use different CSS selectors to make your simple HTML file from the pre-work a bit more exciting. You will first learn about some of the basic selectors and then progress onto advanced selectors, gaining understanding of when to use them and why. One of the goals of this lesson is to teach you to keep the HTML as tidy, clean, and compact as possible. CSS selectors will help you target elements without having to add classes everywhere, allowing for readable and clear HTML.
+In this lesson you will use different [CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors) to make your simple HTML file from the pre-work a bit more exciting. You will first learn about some of the basic selectors and then progress onto advanced selectors, gaining understanding of when to use them and why. One of the goals of this lesson is to teach you to keep the HTML as tidy, clean, and compact as possible. CSS selectors will help you target elements without having to add classes everywhere, allowing for readable and clear HTML.
 
 ## Learning goals
 
 By the end of this lesson, you will be able to:
 
-- Understand why selectors are used in CSS
-- Understand when to use different selectors and why
+- Understand why CSS selectors are used
+- Understand when to use different CSS selectors and why
 - Select elements using basic selectors
 - Select elements combining different selectors
 - Select elements based on their relationship to other elements
@@ -47,11 +47,11 @@ Today’s lesson will have the following schedule:
 
 ### Document Object Model
 
-Before learning about combined CSS selectors, it's a good idea to understand the document tree in the Document Object Model. If you understand the document tree concept, then CSS selectors will be much easier to understand and therefore apply.
+Before learning about combined CSS selectors, it's a good idea to understand the document tree in the [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model). If you understand the document tree concept, then CSS selectors will be much easier to understand and therefore apply.
 
 All HTML documents can be represented as trees. Each level of the tree is described in the same manner as a human family tree, with ancestors, descendants, parents, children and siblings. CSS selectors can describe elements in the document tree.
 
-For example, in any HTML document, the <body> element is the ==ancestor== of all other elements shown on the page. On the contrary, a ==descendant== refers to any element that is connected but lower down the document tree - no matter how many levels lower.
+For example, in any HTML document, the `<body>` element is the ==ancestor== of all other elements shown on the page. On the contrary, a ==descendant== refers to any element that is connected but lower down the document tree - no matter how many levels lower.
 
 Parents and children work the same. A ==parent== is an element that is directly above and connected to an element in the document tree; a ==child== is directly below and connected to an element in the document tree.
 
@@ -71,6 +71,13 @@ We use [CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Sele
 ## Pre-work
 
 Here is an example HTML page in [codepen](https://codepen.io/ollie-j-j/pen/xxdoWpN?editors=1100) which is ready to have some CSS added. If you have yours ready, open your project in your code editor or make a new codepen project.
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="xxdoWpN" data-user="ollie-j-j" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ollie-j-j/pen/xxdoWpN">
+  Top 3 Films!</a> by OJ (<a href="https://codepen.io/ollie-j-j">@ollie-j-j</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ## Basic Selectors
 
@@ -190,7 +197,7 @@ Now try and add a child selector to your HTML page. Here is an example in of our
 
 ### Descendant Selector
 
-The [Descendant Selector](https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_selectors) matches those elements **matched by the second selector**, but only those, which **have an ancestor element, matched by the first selector**.
+The [descendant selector](https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_selectors) matches those elements **matched by the second selector**, but only those, which **have an ancestor element, matched by the first selector**.
 
 Let's take this HTML fragment for a second and think about how we would target the `em` inside the `li`, without targeting the `em` inside the `p`:
 
@@ -311,7 +318,7 @@ Here are some further examples of the attribute selector:
 
 ## Experimenting with Selectors
 
-Now you have an overview of some of the different CSS selectors, take some take to experiment with them and incorporate them into your HTML page. Use the following links to explore some new ones to add to your page too:
+Now you have an overview of some of the different CSS selectors, take some take to experiment with them and incorporate them into your page. Use the following links to explore some new ones to add to your page too:
 
 - [CSS Selectors - Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 - [CSS Selectors - W3 Schools](https://www.w3schools.com/css/css_selectors.asp)
@@ -342,7 +349,7 @@ Let’s discuss the following questions as a way to understand how you feel with
 
 ### Task
 
-Experiment and add more selectors to your page. Focus on the ones you feel least comfortable with and try some new ones out. The result doesn’t have to look beautiful, getting to grips with the selectors is the important part!
+Experiment and add more selectors to your page. Focus on the ones you feel least comfortable with and try some new ones out - the result doesn’t have to look beautiful, getting to grips with the selectors is the important part!
 
 ### Self Evaluation
 

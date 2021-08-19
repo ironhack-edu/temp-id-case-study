@@ -1,6 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Instructor Guidelines | general
+# Instructor Guidelines | General
 
 This document serves as a general guide that can be applied to different lessons. The content acts as a base that can be iterated, adapted and remixed depending on the requirements of a given subject.
 

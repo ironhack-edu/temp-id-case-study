@@ -41,7 +41,7 @@ The lesson may be delivered with the main instructor and teaching assistant, for
 
 ## Schedule
 
-Note the different interaction modes used for each section for recommendations on how the content is best delivered.
+Note the different [interaction modes](https://github.com/ollie-j-j/temp-id-case-study/blob/oj-ironhack-case-study/instructor-resources/instructor-guidelines-general.md) used for each section for recommendations on how the content is best delivered.
 
 ### Introduction & Recap [Presentation Mode] - 10'
 
@@ -104,7 +104,7 @@ To check for understanding in this section, the instructor may call on a volunte
 
 ## Remote Considerations
 
-In addition to general remote considerations, for this lesson as discussed it is important to encourage students to communicate if a particular concept needs repeating by asking them to write in the Zoom chat. Additional breaks may also be required, such as in between the basic and advanced selectors. The best way to know is to ask the students if they would like a break or not in.
+In addition to [general remote considerations](https://github.com/ollie-j-j/temp-id-case-study/blob/oj-ironhack-case-study/instructor-resources/instructor-guidelines-general.md), for this lesson as discussed it is important to encourage students to communicate if a particular concept needs repeating by asking them to write in the Zoom chat. Additional breaks may also be required, such as in between the basic and advanced selectors. The best way to know is to ask the students if they would like a break or not in.
 
 During the “Experimenting with Selectors”, students are free to turn off their cameras and work independently, but the instructor should be available for any questions. During the “Student Exchange” where students will work in pairs, it might be worth preparing Zoom breakout rooms before the session to save time.
 
