@@ -77,7 +77,6 @@ Here is an example HTML page in [codepen](https://codepen.io/ollie-j-j/pen/xxdoW
   Top 3 Films!</a> by OJ (<a href="https://codepen.io/ollie-j-j">@ollie-j-j</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ## Basic Selectors
 
