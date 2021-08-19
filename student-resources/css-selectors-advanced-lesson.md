@@ -70,11 +70,13 @@ We use [CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Sele
 
 ## Pre-work
 
-Here is an example HTML page in [codepen](https://codepen.io/ollie-j-j/pen/xxdoWpN?editors=1100) which is ready to have some CSS added. If you have yours ready, open your project in your code editor or make a new codepen project:
+Here is an example HTML page in [codepen](https://codepen.io/ollie-j-j/pen/xxdoWpN?editors=1100) which is ready to have some CSS added:
 
-  <span>See the Pen <a href="https://codepen.io/ollie-j-j/pen/xxdoWpN">
-  Top 3 Films!</a> by OJ (<a href="https://codepen.io/ollie-j-j">@ollie-j-j</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
+<span>See the Pen <a href="https://codepen.io/ollie-j-j/pen/xxdoWpN">
+Top 3 Films!</a> by OJ (<a href="https://codepen.io/ollie-j-j">@ollie-j-j</a>)
+on <a href="https://codepen.io">CodePen</a>.</span>
+
+If you have yours ready, open your project in your code editor or make a new codepen project.
 
 ## Basic Selectors
 
@@ -90,7 +92,11 @@ h5 {
 }
 ```
 
-You can see what has happened here in the [codepen](https://codepen.io/ollie-j-j/pen/xxdoWjo) example.
+You can see what has happened here in the [codepen](https://codepen.io/ollie-j-j/pen/xxdoWjo) example:
+
+<span>See the Pen <a href="https://codepen.io/ollie-j-j/pen/xxdoWjo">
+Type Selector</a> by OJ (<a href="https://codepen.io/ollie-j-j">@ollie-j-j</a>)
+on <a href="https://codepen.io">CodePen</a>.</span>
 
 ### Universal Selector
 
@@ -110,7 +116,13 @@ Let’s also try and visualise all of the different elements on the HTML page. W
 }
 ```
 
-You might not want to include this in your final design, but you can see how all of the elements have been modified in the [codepen](https://codepen.io/ollie-j-j/pen/KKmjoBe) example. Have a go at using the universal selector in your page.
+You might not want to include this in your final design, but you can see how all of the elements have been modified in the [codepen](https://codepen.io/ollie-j-j/pen/KKmjoBe) example:
+
+<span>See the Pen <a href="https://codepen.io/ollie-j-j/pen/KKmjoBe">
+Universal Selector</a> by OJ (<a href="https://codepen.io/ollie-j-j">@ollie-j-j</a>)
+on <a href="https://codepen.io">CodePen</a>.</span>
+
+Have a go at using the universal selector in your page!
 
 ### Class Selector
 
@@ -122,7 +134,13 @@ The CSS [class selector](https://developer.mozilla.org/en-US/docs/Web/CSS/Class_
 }
 ```
 
-Have a look at the [codepen](https://codepen.io/ollie-j-j/pen/xxdoWmK) example to see the background colour of the different headings change. Now pick a class in your project and use the class selector.
+Have a look at the [codepen](https://codepen.io/ollie-j-j/pen/xxdoWmK) example to see the background colour of the different headings change:
+
+<span>See the Pen <a href="https://codepen.io/ollie-j-j/pen/xxdoWmK">
+Class Selector</a> by OJ (<a href="https://codepen.io/ollie-j-j">@ollie-j-j</a>)
+on <a href="https://codepen.io">CodePen</a>.</span>
+
+Now pick a class in your project and use the class selector.
 
 ### ID Selector
 
@@ -136,7 +154,13 @@ In the example there is a id attribute set to id `‘author-id’`. In order to 
 }
 ```
 
-You will notice that in the [codepen](https://codepen.io/ollie-j-j/pen/poPXLMQ) example that even though the author-class is set to red, the text has changed to blue. This is because IDs are more specific than classes so they will override any styles from a class (for the same reason classes will override any styles from a type selector).
+You will notice that in the [codepen](https://codepen.io/ollie-j-j/pen/poPXLMQ) example that even though the author-class is set to red, the text has changed to blue:
+
+<span>See the Pen <a href="https://codepen.io/ollie-j-j/pen/poPXLMQ">
+ID Selector</a> by OJ (<a href="https://codepen.io/ollie-j-j">@ollie-j-j</a>)
+on <a href="https://codepen.io">CodePen</a>.</span>
+
+This is because IDs are more specific than classes so they will override any styles from a class (for the same reason classes will override any styles from a type selector).
 
 ## Advanced selectors
 
@@ -190,7 +214,11 @@ If we add a `menu` id to the `ul`, we can simply select all of its `li` children
 
 Now we have a rule saying that every `li` child of the element with `menu` id will have that width and height.
 
-Now try and add a child selector to your HTML page. Here is an example in of our page [codepen](https://codepen.io/ollie-j-j/pen/GRmbdJv) if you would like to play around on that too.
+Now try and add a child selector to your HTML page. Here is an example in of our page [codepen](https://codepen.io/ollie-j-j/pen/GRmbdJv) if you would like to play around on that too:
+
+<span>See the Pen <a href="https://codepen.io/ollie-j-j/pen/GRmbdJv">
+Child Selector</a> by OJ (<a href="https://codepen.io/ollie-j-j">@ollie-j-j</a>)
+on <a href="https://codepen.io">CodePen</a>.</span>
 
 ### Descendant Selector
 
@@ -217,7 +245,11 @@ Well, we could of course add a class to the second `em`, or we could add an ID a
 
 Here, the rule that we wrote `ul em` will apply to all `em` elements that are descendants of an `ul`. Therefore, the first `em` inside the `p` will not be affected. Useful right?
 
-Now try and use the descendant selector in your page. Here is the descendant selector used in the [codepen](https://codepen.io/ollie-j-j/pen/MWmMGyR) example.
+Now try and use the descendant selector in your page. Here is the descendant selector used in the [codepen](https://codepen.io/ollie-j-j/pen/MWmMGyR) example:
+
+<span>See the Pen <a href="https://codepen.io/ollie-j-j/pen/MWmMGyR">
+Descendant Selector</a> by OJ (<a href="https://codepen.io/ollie-j-j">@ollie-j-j</a>)
+on <a href="https://codepen.io">CodePen</a>.</span>
 
 ### Adjacent Sibling Selector
 
@@ -252,7 +284,11 @@ div {
 }
 ```
 
-In the [codepen](https://codepen.io/ollie-j-j/pen/OJmeZRv?editors=1100) example, see how the paragraph at the end of each section has been turned to pink using the adjacent selector.
+In the [codepen](https://codepen.io/ollie-j-j/pen/OJmeZRv?editors=1100) example, see how the paragraph at the end of each section has been turned to pink using the adjacent selector:
+
+<span>See the Pen <a href="https://codepen.io/ollie-j-j/pen/OJmeZRv">
+Adjacent Sibling Selector</a> by OJ (<a href="https://codepen.io/ollie-j-j">@ollie-j-j</a>)
+on <a href="https://codepen.io">CodePen</a>.</span>
 
 ### Multiple Selection
 
@@ -279,7 +315,7 @@ You can mix selectors as much as you need to create awesome and beautiful web pa
 
 ### Attribute Selectors
 
-As well as selecting elements by tag name, we can also do this by its [attributes])https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors. Let’s take a look at some attributed in HTML:
+As well as selecting elements by tag name, we can also do this by its [attributes](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors). Let’s take a look at some attributed in HTML:
 
 ```html
 <a href="https://www.google.com">Google</a>
@@ -299,7 +335,11 @@ a {
 }
 ```
 
-Now have a look at the [codepen](https://codepen.io/ollie-j-j/pen/eYWwrgO?editors=1100) example to see how the attributes have been changed in the page.
+Now have a look at the [codepen](https://codepen.io/ollie-j-j/pen/eYWwrgO?editors=1100) example to see how the attributes have been changed in the page:
+
+<span>See the Pen <a href="https://codepen.io/ollie-j-j/pen/eYWwrgO">
+Attribute Selector</a> by OJ (<a href="https://codepen.io/ollie-j-j">@ollie-j-j</a>)
+on <a href="https://codepen.io">CodePen</a>.</span>
 
 Here are some further examples of the attribute selector:
 
@@ -308,7 +348,7 @@ Here are some further examples of the attribute selector:
 | `[attribute]`        | All elements with the specified attribute  |
 | `[attribute=value]`  | All elements where the specified attribute is equal to ‘value’ |
 | `[attribute~=value]` | All elements with an attribute which has a list of whitespace-separated values, one of which is exactly equal to ‘value’ |
-| `[attribute|=value]` | All elements with an attribute which has a hyphen-separated list of values beginning (from the left) with "value" |
+| `[attribute &#124 =value]` | All elements with an attribute which has a hyphen-separated list of values beginning (from the left) with "value" |
 | `[attribute^=value]` | All elements with an attribute beginning with "value" |
 | `[attribute$=value]` | All elements with an attribute ending with "value" |
 | `[attribute*=value]` | All elements with an attribute containing the substring "value" |
