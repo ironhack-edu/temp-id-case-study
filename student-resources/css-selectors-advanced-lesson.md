@@ -70,13 +70,11 @@ We use [CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Sele
 
 ## Pre-work
 
-Here is an example HTML page in [codepen](https://codepen.io/ollie-j-j/pen/xxdoWpN?editors=1100) which is ready to have some CSS added. If you have yours ready, open your project in your code editor or make a new codepen project.
+Here is an example HTML page in [codepen](https://codepen.io/ollie-j-j/pen/xxdoWpN?editors=1100) which is ready to have some CSS added. If you have yours ready, open your project in your code editor or make a new codepen project:
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="xxdoWpN" data-user="ollie-j-j" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ollie-j-j/pen/xxdoWpN">
   Top 3 Films!</a> by OJ (<a href="https://codepen.io/ollie-j-j">@ollie-j-j</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
 
 ## Basic Selectors
 
