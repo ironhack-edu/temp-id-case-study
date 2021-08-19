@@ -348,7 +348,7 @@ Here are some further examples of the attribute selector:
 | `[attribute]`        | All elements with the specified attribute  |
 | `[attribute=value]`  | All elements where the specified attribute is equal to ‘value’ |
 | `[attribute~=value]` | All elements with an attribute which has a list of whitespace-separated values, one of which is exactly equal to ‘value’ |
-| `[attribute &#124; =value]` | All elements with an attribute which has a hyphen-separated list of values beginning (from the left) with "value" |
+| [attribute &#124; =value] | All elements with an attribute which has a hyphen-separated list of values beginning (from the left) with "value" |
 | `[attribute^=value]` | All elements with an attribute beginning with "value" |
 | `[attribute$=value]` | All elements with an attribute ending with "value" |
 | `[attribute*=value]` | All elements with an attribute containing the substring "value" |
