@@ -20,7 +20,3 @@ The resources for students include:
 
 - Lesson plan including learning goals, lesson schedule, engagement strategies and remote considerations
 - Document outlining general guidelines that instructors may find useful to complement the lesson plan
-
-<br><br>
-
-**Thank you!**
