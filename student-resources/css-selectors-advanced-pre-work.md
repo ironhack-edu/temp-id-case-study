@@ -22,7 +22,7 @@ If you need to refresh your knowledge of the DOM, have a read through these link
 
 ## Task
 
-The brief for this project is to create a simple HTML page with your ‘Top 3’ of a topic of your choosing. This could be top 3 sports, books, holiday destination - it could be anything, the choice is yours!
+The brief for this project is to create a simple HTML page of your ‘Top 3’ for a topic of your choosing. This could be top 3 sports, books, holiday destination - it could be anything, the choice is yours!
 
 The page can be as long or short as you like, what is important is that you include a number and variety of different HTML elements to structure your page. For instance your page could feature:
 

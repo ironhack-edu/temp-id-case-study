@@ -29,7 +29,7 @@ Today’s lesson will have the following schedule:
     * Quick review of pre-work and short show and tell
     * Answer any initial questions
 * Guided Examples - 40'
-    * Quick review of pre-work and short show and tell
+    * Guided session following instructor applying the examples to your own project
 * Break - 10'
 * Experimenting with Selectors - 25'
     * Self-led learning
@@ -348,7 +348,7 @@ Here are some further examples of the attribute selector:
 | `[attribute]`        | All elements with the specified attribute  |
 | `[attribute=value]`  | All elements where the specified attribute is equal to ‘value’ |
 | `[attribute~=value]` | All elements with an attribute which has a list of whitespace-separated values, one of which is exactly equal to ‘value’ |
-| [attribute &#124; =value] | All elements with an attribute which has a hyphen-separated list of values beginning (from the left) with "value" |
+| <code> [attribute &#124;=value] </code> | All elements with an attribute which has a hyphen-separated list of values beginning (from the left) with "value" |
 | `[attribute^=value]` | All elements with an attribute beginning with "value" |
 | `[attribute$=value]` | All elements with an attribute ending with "value" |
 | `[attribute*=value]` | All elements with an attribute containing the substring "value" |
@@ -363,7 +363,7 @@ Now you have an overview of some of the different CSS selectors, take some take 
 
 ## Exchange
 
-Now you have an HTML page full of lots of CSS selectors you can talk them through with one of your classmates. In pairs, you should each talk through your pages and show each other which CSS Selectors you used and why.
+Now you have a page full of lots of CSS selectors you can talk them through with one of your classmates. In pairs, you should each talk through your pages and show each other which CSS Selectors you used and why.
 
 ## Reflection & Discussion
 

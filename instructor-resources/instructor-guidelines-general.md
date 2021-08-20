@@ -6,7 +6,7 @@ This document serves as a general guide that can be applied to different lessons
 
 ## Lesson Format
 
-The exact format of each lesson will depend on the content and learning objectives, but as a guide lessons may contain the following core components:
+The exact format of each lesson will depend on its content and learning objectives, but as a guide lessons may contain the following core components:
 
 ### Pre-work
 

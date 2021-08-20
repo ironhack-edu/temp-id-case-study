@@ -4,7 +4,7 @@
 
 ## Description
 
-In this lesson students will learn about different CSS selectors through adding them to a simple HTML file containing different elements they produced as a pre-work. Students will be introduced to basic and advanced selectors in a guided, step by step manner, gaining understanding of when to use each of them and why.
+In this hands-on lesson students will learn about different CSS selectors through incorporating them with a simple HTML file containing different elements they produced as a pre-work. Students will be introduced to basic and advanced selectors in a guided, step by step manner, gaining understanding of when to use each of them and why.
 
 Students will then carry out some work individually, exploring and experimenting with the selectors they have learnt about as well as some new ones and then have a short exchange with a partner to describe the state of their transformed HTML file with a range of CSS selectors.
 
@@ -29,7 +29,7 @@ A recommendation for the duration of a session approximately 2 hours as this giv
 
 ## Pre-lesson Preparation
 
-Students are required to carry out a task before the lesson to refresh their knowledge on the document tree in the Document Object Model. The task will form the basis for the HTML page they will add CSS selectors to throughout the lesson, and should take between 30 mins and 1 hour. The aim of the pre-work is to encourage students to have a personal connection and ownership of their work.
+Students are required to carry out a task before the lesson to refresh their knowledge on the document tree in the Document Object Model. The task will form the basis for the project they will carry out to apply CSS selectors throughout the lesson, and should take between 30 mins and 1 hour. The aim of the pre-work is to encourage students to have a personal connection and ownership of their work.
 
 ## Prerequisites
 
@@ -37,7 +37,7 @@ Students should be familiar with HTML basics and have an idea about how CSS work
 
 ## Delivery Format & Recommendations
 
-The lesson may be delivered with the main instructor and teaching assistant, for approximately 20 students. The instructor will carry out the main activities in a guided, step by step format whilst sharing their screen if carried out online. The students can then either choose to follow the instructor and go between Zoom and their own browser, or have both open in a dual screen setup (recommended).
+The lesson may be delivered with the main instructor and teaching assistant, for approximately 20 students. The instructor will carry out the main activities in a guided, step by step format whilst sharing their screen if carried out online. For remotes students, they may choose to follow the instructor and go between Zoom and their own browser, or have both open in a dual screen setup (recommended).
 
 ## Schedule
 
@@ -65,7 +65,7 @@ When evaluating the pre-work, look for a variety of HTML elements that are used,
 
 ### Guided Examples [Workshop Mode] - 40'
 
-In this section the instructor will talk through the different selector examples in the documentation. The instructor should be sharing their screen for the duration of this section, talking through the example links and showing the codepen examples for each selector. Throughout this section, students should be working on their own pages, adding each selector as it is discussed to their pages. The teaching assistant will be important in this section to answer on the fly questions from students.
+In this section the instructor will talk through the different selector examples in the documentation. The instructor should be sharing their screen for the duration of this section, talking through the example links and showing the codepen examples for each selector. Throughout this activity, students should be working on their own pages, adding each selector as it is discussed to their pages. The teaching assistant will be important in this section to answer on the fly questions from students.
 
 Depending on how the students are receiving the information, after the basic selectors section it might be worth taking a 5 minute break before the advanced selectors to reduce information overload.
 
@@ -73,13 +73,13 @@ Depending on how the students are receiving the information, after the basic sel
 
 ### Experimenting with Selectors [Studio Mode] - 25'
 
-By this stage, students should have an overview of the different types of CSS selectors. The aim of this section is for them to carry on experimenting with the selectors in a self-led fashion. They should add more to their page, using the different documentation links to explore new ones. The aim here is to encourage students to discover topics for themselves, and understand that the lessons serve as an entry point to a topic, and further exploration and practice is needed to develop literacy and deeper understanding.
+By this stage, students should have an overview of the different types of CSS selectors. The aim of this activity is for them to carry on experimenting with the selectors in a self-led fashion. They should add more to their page, using the different documentation links to explore new ones. The aim here is to encourage students to discover topics for themselves, and understand that the lessons serve as an entry point to a topic, and further exploration and practice is needed to develop literacy and a deeper understanding.
 
 The instructor and teaching assistant should be on-hand to answer questions as they arise, taking on the roles as facilitators. If there is a question that would be useful for everyone to be aware of, or it’s clear that a particular selector needs some more explanation then it might be worth explaining it to the whole class.
 
 ### Student Exchange [Studio Mode] - 10'
 
-The aim of this section is to encourage peer learning, collaboration and communication skills. Students will form in pairs and talk through their pages with each other, explaining the different CSS selectors they have used, and articulating why they have used a particular one. The idea is also for students to learn from each other, and become accustomed to explaining the choices they have made, and how different parts of their code work.
+The aim of this section is to encourage peer learning, collaboration and communication skills. Students will form pairs and talk through their pages with each other, explaining the different CSS selectors they have used, and articulating why they have used a particular one. The idea is also for students to learn from each other, and become accustomed to explaining the choices they have made, and how different parts of their code work.
 
 ### Reflection & Discussion [Discussion Mode] - 15'
 
@@ -87,7 +87,7 @@ The aim of this section is to:
 
 - Provide a summary of what has been covered in the class
 - Evaluate key learnings by returning to the learning goals
-- Answer questions about any of the topics that arose in the lesson
+- Answer questions about any of the topics that arose during the lesson
 - Provide and discuss real-world examples to contextualise topic
 
 ### Next Steps & Closing [Presentation Mode] - 5'
@@ -98,15 +98,15 @@ This section should wrap up the lesson, answer any final questions and introduce
 
 In order to maintain the focus and attention of students, a range of interaction modes are used in the lesson. The aim is to reduce one-directional communication from the instructor to students and allow the instructor to act as a facilitator, assisting the students with their own projects.
 
-During the guided section where students follow along with the instructor step-by-step, it is important to continually check-in with students to ask how they are receiving the content and its pace of delivery. What is important is that students don’t feel left behind, so if a student prefers to listen first and apply the selectors independently, they are able to do that after the break during the “Experimenting with Selectors” section.
+During the guided section where students follow along with the instructor step-by-step, it is important to continually check-in with students to ask how they are receiving the content and its pace of delivery. What is important is that students don’t feel left behind, so if a student prefers to listen first and apply the selectors independently, they are able to do that after the break during the “Experimenting with Selectors” activity.
 
 To check for understanding in this section, the instructor may call on a volunteer to share their screen to share how they have implemented a particular selector in their page. In a remote context where it is more difficult to gauge how students are receiving information, encourage students to ask questions in the Zoom chat.
 
 ## Remote Considerations
 
-In addition to [general remote considerations](https://github.com/ollie-j-j/temp-id-case-study/blob/oj-ironhack-case-study/instructor-resources/instructor-guidelines-general.md), for this lesson as discussed it is important to encourage students to communicate if a particular concept needs repeating by asking them to write in the Zoom chat. Additional breaks may also be required, such as in between the basic and advanced selectors. The best way to know is to ask the students if they would like a break or not in.
+In addition to [general remote considerations](https://github.com/ollie-j-j/temp-id-case-study/blob/oj-ironhack-case-study/instructor-resources/instructor-guidelines-general.md), for this lesson as discussed it is important to encourage students to communicate if a particular concept needs repeating by asking them to write in the Zoom chat. Additional breaks may also be required, such as in between the basic and advanced selectors. The best way to know is to ask the students if they would like a break or not.
 
-During the “Experimenting with Selectors”, students are free to turn off their cameras and work independently, but the instructor should be available for any questions. During the “Student Exchange” where students will work in pairs, it might be worth preparing Zoom breakout rooms before the session to save time.
+During the “Experimenting with Selectors” activity, students are free to turn off their cameras and work independently, but the instructor should be available for any questions. During the “Student Exchange” where students will work in pairs, it might be worth preparing Zoom breakout rooms before the session to save time.
 
 ## Assessment Tools
 
@@ -122,15 +122,15 @@ The page that students will create may be evaluated during the class as well as 
 
 ### Self-assessment
 
-The self-assessment in Miro is used to provide an overview of how the content has been received during the class. Depending on the results, the instructor may decide to recap a particular selector or concept in the following lesson. This should also encourage the students to reflect on the concepts they should focus on after the class.
+The self-assessment in [Miro](https://miro.com/app/board/o9J_l13ohFs=/) is used to provide an overview of how the content has been received during the class. Depending on the results, the instructor may decide to recap a particular selector or concept in the following lesson. This should also encourage the students to reflect on the concepts they should focus on after the class.
 
 ### Quiz
 
-The short quiz focuses on testing knowledge of which CSS selectors are used and knowledge of the correct syntax. The quiz should provide insight into how accustomed students are with using different types of selectors and their qualities.
+The [short quiz](https://docs.google.com/forms/d/1yprhnOKxS7Lx-Qq96VUtDNx4j5fS-W96CCQyaJsA8cA/edit) focuses on testing knowledge of which CSS selectors are used and knowledge of the correct syntax. The quiz should provide insight into how accustomed students are with using different types of selectors and their qualities.
 
 ## Reflection
 
-Once the class has ended, it is important for the instructor to note down anything that worked particularly well during the lesson or that did not work so well. This can help inform the next iteration of the class, and better understand which engagement strategies work over others for future lessons and topics.
+Once the class has ended, it is important for the instructor to note down anything that worked particularly well during the lesson or needs improvement. This can help inform the next iteration of the class, and better understand which engagement strategies work over others for future lessons and topics.
 
 The following questions can serve as a starting point:
 
